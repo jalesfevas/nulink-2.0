@@ -1,1 +1,11 @@
-
+#staking and delegating
+- Refer to this official [Nulink](https://docs.nulink.org/products/stakers) documentation
+- Go to [Nulink dashboard](https://dashboard.testnet.nulink.org/)
+- Login with your Metamask account
+- You will be prompted to add the BNB Smart Chain Testnet network to your metamask, confirm it
+- Click on the wallet icon on the top right (left side of your metamask icon) and claim the test tokens
+- Go to Staking tab section and click Approve in My Balance
+- After Approve, the button for staking will be active and you can do the staking
+- Go to the Node Information tab, click on the Bond worker button, paste your worker address here and click on the Bond button
+- If you have a smooth node installation and staking process, you'll have to wait for 1 epoch (24 hours) for your node status to be displayed on Node Information tab.
+- Congratulations !!!
